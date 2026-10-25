@@ -1,6 +1,6 @@
 // CountingWords.cpp - Anna Myers - 25 October 2026
-// Description: Counts the words in a string entered by the user
-// Words are separated by one or more spaces
+// Description: Counts the words in a string entered by the user.
+// Words are separated by one or more spaces.
 
 #include <iostream>
 #include <string>
